@@ -14,4 +14,4 @@ Current examples are:
 
 #### Python code
 - 2nd-year Economic Data Analysis project re-written using `pandas` and `statsmodels`.
-- 1st-year computing project demonstrating knowledge of Python basics.
+- 1st-year computing project demonstrating knowledge of Python basics _(embargoed as of 24 Sept)_.

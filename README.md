@@ -5,7 +5,7 @@ This is currently a work in progress - as I complete more projects throughout th
 Current examples are:
 
 #### Research writing
-- 2nd-year Economic Data Analysis project; received a high first and in top 10% of year. * Written in LateX; includes .tex file. *
+- 2nd-year Economic Data Analysis project; received a high first and in top 10% of year. ** Written in LateX; includes .tex file. **
 - Development Microeconomics Research Proposal -- Low-Fee Private Schools and Education
 - An exploration of the epistomological basis of Randomised Controlled Trials
 

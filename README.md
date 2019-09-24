@@ -1,6 +1,6 @@
 ### Welcome to my code portfolio!
 
-This is currently a work in progress -- as I complete more projects, I shall keep adding to this repo.
+This is currently a work in progress - as I complete more projects throughout the term, I shall keep adding to this repo.
 
 Current examples are:
 

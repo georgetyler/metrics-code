@@ -13,5 +13,5 @@ Current examples are:
 - Worksheet code for 4th-year Development Economics assignment; achieved highest possible mark. Includes LaTeX integration.
 
 #### Python code
-- 2nd-year Economic Data Analysis project re-written using `pandas` and `statsmodels`.
-- 1st-year computing project demonstrating knowledge of Python basics _(embargoed as of 24 Sept)_.
+- 2nd-year Economic Data Analysis project re-written using `pandas` and `statsmodels` _(in progress)_.
+- 1st-year computing project demonstrating knowledge of Python basics.

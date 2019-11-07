@@ -1,4 +1,5 @@
-# Project Specification: Falca
+# Project Specification: Falca's Cave 
+## Implemeting a least-cost search algorithm
 
 Falca has ventured into a cave to collect the treasure that lies therein. This cave can be represented as a two-dimensional grid, completely enclosed by stone walls. Falca arrives at the entrance to the cave, and must locate all of the treasure it contains (a known quantity) before departing from the cave exit (a separate location to the entrance).
 
@@ -67,7 +68,7 @@ The cave corresponding to the specification above is shown below.
 
 - Any item (treasure or sword) in the location currently occupied by Falca is considered to be collected, and no items are ever dropped.
 
-An example input to this function would be ['S', 'S', 'S', 'E', 'E', 'E', 'W', 'W', 'W', 'N', 'N', 'N', 'E', 'E', 'E', 'S', 'N', 'W', 'W', 'W', 'S', 'S', 'E'](#). 
+An example input to this function would be `['S', 'S', 'S', 'E', 'E', 'E', 'W', 'W', 'W', 'N', 'N', 'N', 'E', 'E', 'E', 'S', 'N', 'W', 'W', 'W', 'S', 'S', 'E']`. 
 
 #### `shortest_path` and `optimal_path`
 

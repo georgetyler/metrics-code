@@ -14,4 +14,4 @@ Current examples are:
 
 #### Python code
 - 2nd-year Economic Data Analysis project re-written using `pandas` and `statsmodels` _(in progress)_.
-- 1st-year computing project, implementing search algorithms.
+- Two 1st-year computing projects, implementing search algorithms.

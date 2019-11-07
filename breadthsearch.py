@@ -1,12 +1,12 @@
-# This is the .py file for my final COMP10001 project. Also in this directory will be the instructions.
-# TODO: - Get this to work as a .py file
-#       - Put it on Github and maybe do a few test .git pushes with it
-#       - Try and perhaps separate the functions into different files and be able to string them together
-#
-#
+# See breadthsearch.md for detailed specification.
+# Script contains four functions:
+# build_cave creates a representation of a graph according to fixed and variable parameters.
+# check_path checks if a given path through the graph satisfies certain rules
+# shortest_path implements a breadth-first search algorithm for the shortest path through the graph
+# optimal_path implements a least-cost search with a priority queue for the optimal path through the graph.
+
+
 # ** BUILD CAVE FUNCTION
-
-
 def build_cave(data):
     """ Build a 2D representation of a cave from a given dictionary.
     :param data: dict

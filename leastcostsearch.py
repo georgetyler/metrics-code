@@ -1,4 +1,4 @@
-# See breadthsearch.md for detailed specification.
+# See leastcostsearch.md for detailed specification.
 # Script contains four functions:
 # build_cave creates a representation of a graph according to fixed and variable parameters.
 # check_path checks if a given path through the graph satisfies certain rules
